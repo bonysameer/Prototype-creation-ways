@@ -58,4 +58,4 @@ const animal = {
 }
 animal.location = "alaska";
 animal.family ="husky";
-console.log(animal;)
+console.log(animal);
